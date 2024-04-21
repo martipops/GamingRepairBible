@@ -1,8 +1,10 @@
 # Table of contents
 
+* [The Gaming Repair Bible](README.md)
+
 ## Microsoft
 
-* [Microsoft Consoles](README.md)
+* [Microsoft Consoles](<README (1).md>)
   * [Xbox Original](microsoft/microsoft-consoles/xbox-original.md)
   * [Xbox 360](microsoft/microsoft-consoles/xbox-360/README.md)
     * [Xbox 360 Original](microsoft/microsoft-consoles/xbox-360/xbox-360-original.md)
