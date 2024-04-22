@@ -2,6 +2,20 @@
 
 * [The Gaming Repair Bible](README.md)
 
+## Tools
+
+* [Repair Tools](tools/repair-tools.md)
+
+## General Repairs
+
+* [Joystick Repair](general-repairs/joystick-repair.md)
+
+## Soldering
+
+* [Soldering Iron Operation](soldering/soldering-iron-operation.md)
+* [Through Hole Soldering](soldering/through-hole-soldering.md)
+* [Wire Soldering](soldering/wire-soldering.md)
+
 ## Microsoft
 
 * [Microsoft Consoles](microsoft/microsoft-consoles/README.md)
@@ -22,9 +36,6 @@
     * [Full Tear-down](microsoft/microsoft-controllers/xbox-one-controllers/full-tear-down.md)
     * [Cleaning](microsoft/microsoft-controllers/xbox-one-controllers/cleaning.md)
     * [Joystick Repair](microsoft/microsoft-controllers/xbox-one-controllers/joystick-repair.md)
-  * [Xbox Series Controller](microsoft/microsoft-controllers/xbox-series-controller.md)
-  * [Elite Controllers](microsoft/microsoft-controllers/elite-controllers/README.md)
-    * [Elite Series 2](microsoft/microsoft-controllers/elite-controllers/elite-series-2.md)
 
 ## Sony
 

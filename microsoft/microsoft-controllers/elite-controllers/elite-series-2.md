@@ -1,2 +1,0 @@
-# Elite Series 2
-
